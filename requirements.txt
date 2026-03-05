@@ -1,0 +1,31 @@
+# Polymarket Python Integration Requirements
+# Install with: pip install -r requirements.txt
+
+# Core API clients
+requests>=2.28.0
+py-clob-client>=1.0.0
+
+# Environment and configuration
+python-dotenv>=0.19.0
+
+# Data analysis and manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+plotly>=5.10.0
+
+# Blockchain and Web3
+web3>=5.31.0
+
+# Development and testing (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.15.0
+
+# Additional utilities
+python-dateutil>=2.8.0
