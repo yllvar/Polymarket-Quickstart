@@ -328,18 +328,6 @@ We value all types of contributions:
 - **Design**: UI/UX improvements, visualizations
 - **Community**: Support, discussions, feedback
 
-## 📞 Contact
-
-### Maintainers
-
-- **Primary Maintainer**: [Your Name](mailto:your.email@example.com)
-- **Backup Maintainer**: [Backup Name](mailto:backup.email@example.com)
-
-### Communication Channels
-
-- **GitHub Issues**: For bugs and features
-- **GitHub Discussions**: For questions and ideas
-- **Email**: For private or security-related matters
 
 ---
 
